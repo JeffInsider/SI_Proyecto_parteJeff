@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\angel\\documents\\clasesunah\\sistemasinformacion\\aguasbackend\\login\\login\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\angel\\documents\\clasesunah\\sistemasinformacion\\aguasbackend\\login\\login\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\angel\\documents\\clasesunah\\sistemasinformacion\\aguasbackend\\login\\login\\controllers\\communicatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\controllers\\communicatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\angel\\documents\\clasesunah\\sistemasinformacion\\aguasbackend\\login\\login\\services\\comunicateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\services\\comunicateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\angel\\documents\\clasesunah\\sistemasinformacion\\aguasbackend\\login\\login\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\angel\\documents\\clasesunah\\sistemasinformacion\\aguasbackend\\login\\login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|c:\\users\\angel\\documents\\clasesunah\\sistemasinformacion\\aguasbackend\\login\\login\\services\\interfaces\\icomunicateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01286E7-5A6C-4C13-A891-0C1BB1846DE5}|LOGIN\\LOGIN.csproj|solutionrelative:login\\services\\interfaces\\icomunicateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommunicateController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\Controllers\\CommunicateController.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Controllers\\CommunicateController.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\Controllers\\CommunicateController.cs",
+              "RelativeToolTip": "LOGIN\\Controllers\\CommunicateController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:47:27.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\Services\\UserService.cs",
+              "RelativeToolTip": "LOGIN\\Services\\UserService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:46:09.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IComunicateServices.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\Services\\Interfaces\\IComunicateServices.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Services\\Interfaces\\IComunicateServices.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\Services\\Interfaces\\IComunicateServices.cs",
+              "RelativeToolTip": "LOGIN\\Services\\Interfaces\\IComunicateServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:45:36.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComunicateServices.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\Services\\ComunicateServices.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Services\\ComunicateServices.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\Services\\ComunicateServices.cs",
+              "RelativeToolTip": "LOGIN\\Services\\ComunicateServices.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowFYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:45:27.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\Startup.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Startup.cs",
+              "ToolTip": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\Startup.cs",
+              "RelativeToolTip": "LOGIN\\Startup.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA3wCgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:42:15.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LOGIN\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\appsettings.Development.json",
+              "RelativeToolTip": "LOGIN\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T23:39:39.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\appsettings.json",
+              "RelativeDocumentMoniker": "LOGIN\\appsettings.json",
+              "ToolTip": "C:\\Users\\angel\\Documents\\ClasesUnah\\SistemasInformacion\\AguasBackend\\LOGIN\\LOGIN\\appsettings.json",
+              "RelativeToolTip": "LOGIN\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T23:39:28.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
